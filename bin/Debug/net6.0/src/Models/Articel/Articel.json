@@ -1,0 +1,15 @@
+{
+  "table": "articel",
+  "primaryKey": "ID",
+  "fields": [
+    {
+      "title": "string",
+      "description": "string",
+      "category_id": "int",
+      "user_id": "string",
+      "timestamp": "timestamp",
+      "last_changed": "timestamp",
+      "active": "int"
+    }
+  ]
+}
